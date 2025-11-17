@@ -5,8 +5,8 @@ import { useRef } from 'react';
 import CountUp from 'react-countup';
 
 const stats = [
-  { number: 10, suffix: '+', label: 'Projects Completed' },
-  { number: 3, suffix: '+', label: 'Years Experience' },
+  { number: 12, suffix: '+', label: 'Projects Completed' },
+  { number: 4, suffix: '+', label: 'Years Experience' },
   { number: 100, suffix: '%', label: 'Uptime Improvements' },
 ];
 
@@ -39,7 +39,7 @@ const About = () => {
 
           <div className="glass-effect rounded-lg p-8 mb-12" data-aos="fade-up" data-aos-delay="100">
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Enterprise Network Engineer with 3+ years of experience designing, deploying, and securing LAN/WAN, wireless, and cloud networks. Skilled in Cisco, Juniper, and Palo Alto networking, with expertise in routing (OSPF, EIGRP, BGP), switching (VLAN, STP, EtherChannel), firewalls, VPNs, and cloud connectivity (AWS Direct Connect, VPC peering). Proven track record of improving network performance, uptime, and security compliance for enterprise-scale environments.
+              Enterprise Network Engineer with 4+ years of experience designing, deploying, and securing LAN/WAN, wireless, and cloud networks. Skilled in Cisco, Juniper, and Palo Alto networking, with expertise in routing (OSPF, EIGRP, BGP), switching (VLAN, STP, EtherChannel), firewalls, VPNs, and cloud connectivity (AWS Direct Connect, VPC peering). Proven track record of improving network performance, uptime, and security compliance for enterprise-scale environments.
             </p>
           </div>
 
