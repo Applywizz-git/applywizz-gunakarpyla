@@ -39,7 +39,7 @@ const Education = () => {
                   <div className="flex flex-wrap gap-4 text-muted-foreground">
                     <div className="flex items-center gap-2">
                       <MapPin size={16} className="text-violet" />
-                      <span>Warrensburg, MO</span>
+                      <span>Lee's Summit</span>
                     </div>
                     <div className="flex items-center gap-2">
                       <Calendar size={16} className="text-violet" />
