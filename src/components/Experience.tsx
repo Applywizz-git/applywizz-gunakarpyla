@@ -5,7 +5,7 @@ const experiences = [
   {
     company: 'Lumen Technologies',
     role: 'Network Security Engineer',
-    period: 'Nov 2024 – Present',
+    period: 'Sept 2024 – Present',
     location: 'USAs',
     achievements: [
       'Cisco ACI multi-site fabric rollout with Nexus/MSO → ↓ latency by 40%',
