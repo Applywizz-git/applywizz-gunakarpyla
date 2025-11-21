@@ -233,7 +233,7 @@ const Hero = () => {
               href="mailto:gunakar@careerattainment.com"
               className="hover:text-electric-green transition-colors"
             >
-              gunakar@careerattainment.com
+              gunakarpyla272@gmail.com
             </a>
             <span>|</span>
             <a
