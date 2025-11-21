@@ -59,7 +59,7 @@ const Contact = () => {
                     <div className="p-3 bg-primary/10 rounded-lg group-hover:glow-green transition-all">
                       <Mail className="text-electric-green" size={20} />
                     </div>
-                    <span>gunakar@careerattainment.com</span>
+                    <span>gunakarpyla272@gmail.com</span>
                   </a>
                   <a
                     href="tel:+19132388606"
